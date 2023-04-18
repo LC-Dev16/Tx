@@ -1,11 +1,11 @@
 {
-  "mnadm":"WINGO HACK AUTO PREDIKSI  NEW",
-  "admin":"LEEM CHO","teleadm":"@lc_dev - @leem_cho","telechn":"@lc_ScWingoReal (telegram)",
+  "mnadm":"SCRIPT GAME 55FIVE HACK",
+  "ath":"  Author        : ","admin":"LEEM CHO","tel":"  Telegram      : ","teleadm":"@lc_dev - @leem_cho","chn":"  Channel       : ","telechn":"@lc_ScWingoReal (telegram)",
   "new":"   - [FIX] Pola Baru Menu BK dan Menu JP Angka (12/04)\n   - [FIX] BOT SIGNAL Menu BK No.1\n   - [FIX] Pola Auto Bet Mode Skip",
   "hdLog":"FORM LOGIN ACCOUNT MEMBER","usr":"Masukan Username :","pwd":"Masukan Password :",
   "chkdt":"  Checking data...","chkst":"  Checking status...","ok":" ✓ DONE",
   "errLog":"   Akun tidak terdaftar, hubungi pembuat script","sucLog":"  ✓ Login Successfully, Please wait...",
-  "accBan":"   Akun Anda telah di BANNED PERMANEN",
+  "accBan":"   Akun Anda di BANNED karena melanggar Aturan",
   "accFrz":"   Input salah, masukan input yang benar",
   "accExp":"   Akun kadaluarsa, hubungi Admin untuk perpanjang Akun",
   "hckreg":"HACK MENU - MEMBER REGULER","hckprm":"HACK MENU - MEMBER PREMIUM","hckvip":"HACK MENU - MEMBER VIP","hcktrl":"HACK MENU - TRIAL ACCOUNT",
@@ -20,7 +20,7 @@
   "special":"  ✓ SPECIAL MEMBER IKHLAS\n   - Untuk member yang memberi Admin SAWERAN dgn ikhlas,\n     Masa aktif Akun akan otomatis diperpanjang oleh Admin\n\n  @ACCOUNT PAYMENT :\n    - DANA = 083818016611 \n    - BCA  = 1290772300 \n    - Virtual BCA = 3901083818016611\n\n   • Kirimkan bukti pembayaran kepada Owner,\n     jangan lupa kirim juga username akun script kalian",
   "tipsbk":"   - Utamakan Pantau dulu script 2-4 Periode\n   - [SIGNAL] adalah BOT AI yang memudahkanmu untuk BET\n   - [PANTAU] Bisa Anda skip/ikuti jika yakin untuk BET\n   - [MOMENT] Ketika ada WIN 2x, [LAWAN] Prediksi Script\n   - [MOMENT] Ketika ada LOSE 2x, [IKUTI] Prediksi Script\n   - Setiap 5 periode, script akan acak pola otomatis\n   - Ketika dalam 5 periode ada loss 3x maka akan refresh\n   - STOP ketika SCRIPT banyak LOSE, tunggu MOMENT\n   - Jaga Money Management, kompensasi MAX K3 (3x)",
   "tipsjp":"   - Usahakan Pantau dulu script 2-4 Periode\n   - Gunakan settingan Losstreak agar bisa refresh\n   - SKIP ikut Prediksi Ketika sudah lose 2x\n   - STOP Ikut Prediksi ketika SC banyak LOSE\n   - Jaga Money Management, kompensasi MAX K3 (3x)",
-  "tipsbet":"  - System sudah mengatur bet 1000\n    Anda hanya perlu memasukan jumlah bet nya saja \n    Contoh: input 5 = 5000 (Jumlah Bet = 5)\n\n  - Jumlah kompensasi adalah jumlah yang\n    meng-kalikan total bet ketika LOSE\n    Contoh: bet 5000x2 = 10.000 (Kompen = 2)\n\n  - Kompen Losstreak = Kompen+Mengembalikan ke BET awal\n    Disarankan Atur totalnya 2-4 (tidak boleh > 4)\n    Contoh: input 3, maka kompensasi K1,K2 setelah itu\n    BET akan otomatis kembali ke awal\n\n  - Target Profit = Jumlah target profit yang kita atur\n    ketika sudah mencapai target, SC akan berhenti\n    Contoh input: 20 (target profit = 20.000) \n\n",
+  "tipsbet":"  - System sudah mengatur bet 1000\n    Anda hanya perlu memasukan jumlah bet nya saja \n    Contoh: input 5 = 5000 (Jumlah Bet = 5)\n\n  - Jumlah kompensasi adalah jumlah yang\n    meng-kalikan total bet ketika LOSE\n    Contoh: bet 5000x2 = 10.000 (Kompensasi = 2)\n\n  - Kompen Losstreak = Kompen+Mengembalikan ke BET awal\n    Disarankan Atur totalnya 2-4 (tidak boleh > 4)\n    Contoh: input 3, maka kompensasi K1,K2 setelah itu\n    BET akan otomatis kembali ke awal\n\n  - Target Profit = Jumlah target profit yang kita atur\n    ketika sudah mencapai target, SC akan berhenti\n    Contoh input: 20 (target profit = 20.000) \n\n",
   "det50":"Nunggunya sambil nyemil bos..",
   "det45":"Ohh ya lupa bulan Ramadhan 😂",
   "det40":"Jika Kamu takut kegagalan... ",
@@ -28,6 +28,6 @@
   "det34":"Konsisten-lah dalam segala hal",
   "det30":"Karena usaha tak menghianati hasil",
   "det22":"Detik-detik menegangkan nihh...",
-  "det9":"Hasil akan keluar dalam beberapa detik ini.. "
+  "det9":"Hasil akhir akan kekuar, Semoga WINN"
   
 }
