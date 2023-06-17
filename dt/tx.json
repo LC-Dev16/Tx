@@ -1,0 +1,24 @@
+{
+  "mnadm":"SCRIPT GAME 55FIVE HACK",
+  "ath":"  Author        : ","admin":"LEEM CHO","tel":"  Telegram      : ","teleadm":"@lc_dev - @leem_cho","chn":"  Channel       : ","telechn":"@lc_ScWingoReal (telegram)","chn1":"  YouTube       : ","yt":"https://youtube.com/@lcdev",
+  "new":"   - [FIX] Pola Auto Bet Mode Skip\n   - [FIX] Prediksi Warna v1 Mengikuti Angka\n    - [FIX] Pola Auto Bet Nonstop\n   - [FIX] Bugs Lain nya",
+  "hdLog":"LOGIN AKUN 55FIVE Only FOR USER REGISTERED","usr":"Masukan No.HP :","pwd":"Masukan Sandi :",
+  "chkdt":"  Checking data...","chkst":"  Checking status...","ok":" ✓ DONE",
+  "errLog":"   User ID tidak terdaftar, Hubungi Admin untuk daftar","sucLog":"  ✓ Login Successfully, Please wait...",
+  "accBan":"   Akun Anda di BANNED karena melanggar Aturan",
+  "accFrz":"   Input salah, masukan input yang benar",
+  "accExp":"   Akun kadaluarsa, hubungi Admin untuk perpanjang Akun",
+  "hckreg":"HACK MENU - MEMBER REGULER","hckprm":"HACK MENU - MEMBER PREMIUM","hckvip":"HACK MENU - MEMBER VIP","hcktrl":"HACK MENU - TRIAL ACCOUNT",
+  "mnG0":"PILIH GAME FAVORIT","mnG1":"WINGO HACK","mnG2":"TRX HACK",
+  "mn0":"LOGOUT AKUN","mn1":"PREDIKSI BK, WARNA + ANGKA (v1)","mn2":"PREDIKSI BESAR & KECIL + ANGKA (v2)","mn3":"AUTO BET (Main Otomatis)","mn4":"Manual BET (Main lewat Script)","mn5":"PENARIKAN SALDO (Withdraw)","mn6":"Informasi Periode Server (Untuk baca pola)","mn7":"Hubungi Owner/Pembuat Script @leem_cho","mn8":"Syarat & Ketentuan Penggunaan","mn9":"Kembali ke Menu Utama",
+  "mnbet":" MENU AUTO BET ","mnbet1":"Auto Bet Mode SKIP","mnbet2":"Auto Bet NONSTOP","mnbet3":"Pengaturan Auto Bet","mnbet4":"Ganti Akun 55Five",
+  "pilNo":"    Pilih Nomor: ","errNo":"    Input salah, Masukan pilihan nomor yang benar\n",
+  "ndUp":"    Fitur ini hanya untuk member VIP \n    Silahkan hubungi Admin untuk upgrade akun Anda.\n",
+  "mt":"    Fitur ini sedang dalam perbaikan, coba lagi nanti\n",
+  "sk":"   SYARAT INI BERLAKU SEJAK 11 Januari 2023\n   - Dilarang Perjualbelikan Script ini\n   - Dilarang Share SS ke-sembarang Orang/Grup\n   - Dilarang dipakai untuk menipu orang lain\n   - Dilarang dipakai PAMER (kecuali di Grup Official Kami)\n\n   SANKSI UNTUK MEMBER YANG MELANGGAR\n   - Akun akan dibekukan/BANNED PERMANEN\n   - Script tidak bisa dipakai/BANNED DEVICE\n   - Tidak dapat Update & Tentunya akan rugi sendiri\n",
+  "renew":"  • MEMBER PREMIUM\n    - 15 Hari = 25.000\n    - 30 Hari = 60.000\n\n  • MEMBER VIP\n    -  7 Hari = 25.000\n    - 15 Hari = 50.000\n    - 30 Hari = 80.000",
+  "special":"  ✓ SPECIAL MEMBER IKHLAS\n   - Untuk member yang memberi Admin SAWERAN dgn ikhlas,\n     Masa aktif Akun akan otomatis diperpanjang oleh Admin\n\n  @ACCOUNT PAYMENT :\n    - DANA = 083818016611 \n    - BCA  = 1290772300 \n    - Virtual BCA = 3901083818016611\n\n • Kirimkan bukti pembayaran kepada Owner,\n     jangan lupa kirim ID Akun 55Five ny juga",
+  "tipsbk":"   - Utamakan Pantau dulu script 2-4 Periode\n   - SCRIPT akan menyesuaikan pola otomatis\n   - [MOMEN WIN] Ikuti Prediksi ketika ada LOSE 2x\n   - [MOMEN WIN] Ikuti Prediksi ketika Win Warna sama 2x\n   - [MOMEN WIN] BET Warna Ketika prediksi Warna Lose 1x\n   - [MOMEN WIN] Lawan Prediksi ketika ada LOSE 1x\n   - SKIP ketika Script banyak LOSE, coba Bet Warna/Lawan\n   - Jaga Money Management, kompensasi MAX K3 (3x)",
+  "tipsbet":"  - System sudah mengatur bet 1000\n    Anda hanya perlu memasukan jumlah bet nya saja \n    Contoh: input 5 = 5000 (Jumlah Bet = 5)\n\n  - Jumlah kompensasi adalah jumlah yang\n    meng-kalikan total bet ketika LOSE\n    Contoh: bet 5000x2 = 10.000 (Kompensasi = 2)\n\n  - Kompen Losstreak = Kompen+Mengembalikan ke BET awal\n    Disarankan Atur totalnya 2-4 (tidak boleh > 4)\n    Contoh: input 3, maka kompensasi K1,K2 setelah itu\n    BET akan otomatis kembali ke awal\n\n  - Target Profit = Jumlah target profit yang kita atur\n    ketika sudah mencapai target, SC akan berhenti\n    Contoh input: 20 (target profit = 20.000) \n\n  - StopLose = Saldo yang kita batasi agar tidak losdoll.\n    Contoh: saldo 100.000, atur stoplose 80 (80.000) maka,\n    Ketika saldo kita sisa 80.000, auto bet akan terhenti\n\n"
+  
+}
